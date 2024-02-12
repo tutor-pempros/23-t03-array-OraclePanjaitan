@@ -28,7 +28,7 @@ int main(int _argc, char **_argv)
       smallest = angka[n];      
     }
   }
-  for(int i=0;i<n;i++)
+  for(int i=1;i<n;i++)
   {
     if(angka[i]> biggest)
     {
