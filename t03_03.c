@@ -43,7 +43,7 @@ int main(int _argc, char **_argv)
   }
   
   div = div / n;
-  range = biggest + smallest;
+  range = biggest - smallest;
   
   printf("%g", smallest);
   printf("\n%g", biggest);
